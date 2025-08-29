@@ -3,7 +3,7 @@ import swaggerUi from "swagger-ui-express";
 import swaggerJsdoc from "swagger-jsdoc";
 import cors from "cors";
 
-// Import route modulesss
+// Import route modulessss
 import authRoutes from "./routes/auth";
 import courseRoutes from "./routes/course";
 import userRoutes from "./routes/user";
